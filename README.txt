@@ -12,4 +12,4 @@ Codigo de pruebas_Proyecto:
 https://github.com/reneronaldo10/PROCESAMIENTO-DE-IMAGENES/blob/main/Codigo%20de%20pruebas_PROYECTO.py
 
 Video:
-
+https://drive.google.com/file/d/1HiR2WXjAXZzheoKY3dQb_fdMgCaBoO3U/view?usp=sharing
